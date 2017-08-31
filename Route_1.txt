@@ -1,0 +1,10 @@
+  Station Code  Station name
+
+  1		Saharanpur 
+  2		Shahpur
+  3		Rampur
+  4		Shafipur
+  5		Roorkee(Civil Lines)
+  6		Mohanpura
+  7		Akashdeep Enclave
+  8		Talhedi

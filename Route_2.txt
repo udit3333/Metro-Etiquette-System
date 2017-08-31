@@ -1,0 +1,14 @@
+  Station code  Station No.
+
+  1		Brahmpuri
+  2		Haridwar
+  3		Devpura
+  4		Mayapura
+  5 		Patanjali Yogpeeth
+  6		Adarsh Nagar
+  7		IITR (Gate no. 1)
+  8		Roorkee(Civil lines)
+  9		Mohanpura
+  10		Akashdeep Enclave
+  11		Talhedi
+
